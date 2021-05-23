@@ -1,0 +1,3 @@
+/Volumes/Documents/work/cv_traffic_sign_recognition/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Volumes/Documents/work/cv_traffic_sign_recognition/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Volumes/Documents/work/cv_traffic_sign_recognition/cmake-build-debug/CMakeFiles/opencv.dir
